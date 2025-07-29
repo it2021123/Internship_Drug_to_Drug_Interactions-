@@ -6,27 +6,27 @@
 
 ## Δομή Project
 Drug_Interaction_Analysis/
-###├── README.md
-###├── .gitignore
-###├── DNN.py
-###├── DrugInteractionDataset.py
-###├── contrastive_learning_OoD.py
-###├── emb_contrastive.py
-###├── logit_contrastive.py
-###├── out_of_Distribution.py
-###├── train.py
-###├── best_model.pt
-###├── best_projection.pt
-###├── data_prepr/
-###│   ├── Id_OoD.py
-###│   ├── categories.csv
-###│   ├── createA_B_and_B_A.py
-###│   ├── create_embedings_ChemBert.py
-###│   ├── create_embedings_biobert.py
-###│   ├── create_labels.py
-###│   ├── create_negative_samples.py
-###│   ├── five_class_only.py
-###│   ├── known_effects.csv
+### ├── README.md
+### ├── .gitignore
+### ├── DNN.py
+### ├── DrugInteractionDataset.py
+### ├── contrastive_learning_OoD.py
+### ├── emb_contrastive.py
+### ├── logit_contrastive.py
+### ├── out_of_Distribution.py
+### ├── train.py
+### ├── best_model.pt
+### ├── best_projection.pt
+### ├── data_prepr/
+### │   ├── Id_OoD.py
+### │   ├── categories.csv
+### │   ├── createA_B_and_B_A.py
+### │   ├── create_embedings_ChemBert.py
+### │   ├── create_embedings_biobert.py
+### │   ├── create_labels.py
+### │   ├── create_negative_samples.py
+### │   ├── five_class_only.py
+### │   ├── known_effects.csv
 
 
 ---
