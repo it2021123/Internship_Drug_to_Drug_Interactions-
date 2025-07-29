@@ -1,0 +1,562 @@
+Side Effect Name,Side Effect,Disease Class
+retinopathy of prematurity,C0035344,nervous system disease
+lung edema,C0034063,respiratory system disease
+peliosis,C0034150,hematopoietic system disease
+allergies,C0020517,immune system disease
+thrombocytopenia,C0040034,hematopoietic system disease
+hyperglycaemia,C0020456,acquired metabolic disease
+hypoglycaemia,C0020615,endocrine system disease
+asystole,C0018790,cardiovascular system disease
+cerebral infarct,C0007785,cardiovascular system disease
+adynamic ileus,C0030446,gastrointestinal system disease
+Acute Respiratory Distress Syndrome,C0035222,respiratory system disease
+lipoma,C0023798,benign neoplasm
+appendicitis,C0003615,gastrointestinal system disease
+pulmonary hypertension,C0020542,cardiovascular system disease
+intestinal perforation,C0021845,gastrointestinal system disease
+Disorder Lung,C0024115,respiratory system disease
+Bladder inflammation,C0010692,urinary system disease
+patent ductus arteriosis,C0013274,cardiovascular system disease
+disease of liver,C0023895,gastrointestinal system disease
+eruption,C0015230,integumentary system disease
+acute pancreatitis,C0001339,endocrine system disease
+neumonia,C0032285,respiratory system disease
+adenocarcinoma,C0001418,cancer
+haemorrhoids,C0019112,cardiovascular system disease
+anaemia,C0002871,hematopoietic system disease
+encephalopathy,C0085584,nervous system disease
+chronic obstructive airway disease,C0024117,respiratory system disease
+narcolepsy,C0027404,sleep disorder
+Lymphocytes decreased,C0024312,hematopoietic system disease
+Breast cancer,C0678222,cancer
+haemolytic anaemia,C0002878,hematopoietic system disease
+gastroenteritis,C0017160,gastrointestinal system disease
+optic disc edema,C0030353,nervous system disease
+alopecia,C0002170,integumentary system disease
+conjunctivitis,C0009763,nervous system disease
+glomerulonephritis,C0017658,urinary system disease
+duodenal ulcer,C0013295,gastrointestinal system disease
+leucopenia,C0023530,hematopoietic system disease
+bursitis,C0006444,musculoskeletal system disease
+Ekbom Syndrome,C0035258,nervous system disease
+nephrocalcinosis,C0027709,acquired metabolic disease
+thrombotic microangiopathy,C0034155,hematopoietic system disease
+aspiration pneumonia,C0032290,respiratory system disease
+asthma,C0004096,respiratory system disease
+Candida Infection,C0006840,fungal infectious disease
+Infection Viral,C0042769,viral infectious disease
+cellulitis,C0007642,integumentary system disease
+allergic dermatitis,C0011615,integumentary system disease
+constipated,C0009806,gastrointestinal system disease
+Clotting,C0005779,hematopoietic system disease
+ear discharge,C0155540,nervous system disease
+Leukaemia,C0023418,cancer
+myopia,C0027092,nervous system disease
+Chronic Kidney Disease,C0022661,urinary system disease
+Cholangitis,C0008311,gastrointestinal system disease
+hypothyroid,C0020676,endocrine system disease
+dermatitides,C0011603,integumentary system disease
+Deafness neurosensory,C0018784,nervous system disease
+fungal disease,C0026946,fungal infectious disease
+amenorrhea,C0002453,reproductive system disease
+Neutropenia,C0027947,hematopoietic system disease
+pyoderma,C0034212,integumentary system disease
+laryngeal neoplasia,C0023055,benign neoplasm
+Blood disorder,C0018939,hematopoietic system disease
+Arthritis infective,C0003869,musculoskeletal system disease
+nasopharyngitis,C0027441,respiratory system disease
+Rhinitis,C0035455,respiratory system disease
+Colon Spastic,C0022104,irritable bowel syndrome
+heart attack,C0027051,cardiovascular system disease
+hepatic neoplasia,C0023903,cancer
+dyspepsia,C0013395,gastrointestinal system disease
+Embolism pulmonary,C0034065,cardiovascular system disease
+biliary tract disorder,C0005424,gastrointestinal system disease
+colitis ischemic,C0162529,gastrointestinal system disease
+arteriosclerotic heart disease,C0010054,cardiovascular system disease
+migraine,C0149931,nervous system disease
+osteoporosis,C0029456,musculoskeletal system disease
+High blood pressure,C0020538,cardiovascular system disease
+Arthritis rheumatoid,C0003873,musculoskeletal system disease
+arteriosclerosis,C0003850,cardiovascular system disease
+acid reflux,C0017168,gastrointestinal system disease
+fibromyalgia,C0016053,musculoskeletal system disease
+herpes zoster,C0019360,viral infectious disease
+Breast cyst,C0006144,benign neoplasm
+osteomalacia,C0029442,musculoskeletal system disease
+arthritis,C0003864,musculoskeletal system disease
+abuse,C0013146,substance-related disorder
+cholecystitis,C0008325,gastrointestinal system disease
+acne rosacea,C0035854,integumentary system disease
+gall bladder,C0016977,gastrointestinal system disease
+diabetic acidosis,C0011880,acquired metabolic disease
+Diabetic Retinopathy,C0011884,nervous system disease
+blepharitis,C0005741,nervous system disease
+pyelonephritis,C0034186,urinary system disease
+Blepharospasm,C0005747,nervous system disease
+aneurysm,C0002940,cardiovascular system disease
+decubitus ulcer,C0011127,integumentary system disease
+kidney failure,C0035078,urinary system disease
+meningitides,C0025289,nervous system disease
+ild,C0206062,respiratory system disease
+Vestibular disorder,C0042594,nervous system disease
+Diabetes,C0011849,acquired metabolic disease
+bronchitis,C0006277,respiratory system disease
+lung fibrosis,C0034069,respiratory system disease
+amyotrophy,C0026846,musculoskeletal system disease
+renal cyst,C0022679,urinary system disease
+neuropathy peripheral,C0031117,nervous system disease
+Bacterial infection,C0004623,bacterial infectious disease
+angiitis,C0042384,cardiovascular system disease
+Cardiomyopathy,C0878544,cardiovascular system disease
+fascitis plantar,C0149756,musculoskeletal system disease
+Cardiac decompensation,C0018802,cardiovascular system disease
+mucositis oral,C0038362,gastrointestinal system disease
+glaucoma,C0017601,nervous system disease
+mitral valve disease NOS,C0026265,cardiovascular system disease
+breast dysplasia,C0016034,benign neoplasm
+Phlebitis,C0031542,cardiovascular system disease
+lung neoplasms,C0024121,benign neoplasm
+bone marrow failure,C0030312,hematopoietic system disease
+polyneuropathy,C0152025,nervous system disease
+Scoliosis,C0036439,musculoskeletal system disease
+apoplexy,C0038454,cardiovascular system disease
+Amnesia,C0002622,cognitive disorder
+keratitis sicca,C0022575,nervous system disease
+transient ischaemic attack,C0007787,cardiovascular system disease
+Mod,C0011860,acquired metabolic disease
+facial palsy,C0015469,nervous system disease
+disorder Renal,C0022658,urinary system disease
+nephrosclerosis,C0027719,cardiovascular system disease
+psoriatic arthritis,C0003872,psoriatic arthritis
+post traumatic stress disorder,C0038436,cognitive disorder
+laryngitis,C0023067,respiratory system disease
+angiopathy,C0042373,cardiovascular system disease
+flu,C0021400,viral infectious disease
+coeliac disease,C0007570,immune system disease
+Bilirubinaemia,C0020433,inherited metabolic disorder
+hyperlipaemia,C0020473,inherited metabolic disorder
+encephalitis,C0014038,nervous system disease
+Atherosclerosis,C0004153,cardiovascular system disease
+AFIB,C0004238,cardiovascular system disease
+Neuritis,C0027813,nervous system disease
+gingivitis,C0017574,gastrointestinal system disease
+thyroid neoplasia,C0040136,cancer
+bone inflammation,C0029400,musculoskeletal system disease
+candidiasis of mouth,C0006849,fungal infectious disease
+tooth disease,C0040435,gastrointestinal system disease
+arthropathy,C0022408,musculoskeletal system disease
+pericardial effusion,C0031039,cardiovascular system disease
+herpes simplex,C0019348,viral infectious disease
+Acute myeloblastic leukemia,C0023467,cancer
+gastric inflammation,C0017152,gastrointestinal system disease
+eating disorder,C0013473,developmental disorder of mental health
+proteinuria,C0033687,urinary system disease
+increased platelet count,C0836924,hematopoietic system disease
+multiple sclerosis,C0026769,nervous system disease
+intraocular inflammation,C0042164,nervous system disease
+Convulsions Grand Mal,C0014549,nervous system disease
+salivary gland inflammation,C0037023,gastrointestinal system disease
+cervicitis,C0007860,reproductive system disease
+adenitis,C0024205,immune system disease
+Ejaculation Premature,C0033038,sexual disorder
+Blood Calcium Increased,C0020437,acquired metabolic disease
+phobia,C0349231,cognitive disorder
+esophagitis,C0014868,gastrointestinal system disease
+nephrotic syndrome,C0027726,urinary system disease
+proctitis,C0033246,gastrointestinal system disease
+spondylosis,C0038019,musculoskeletal system disease
+hyperparathyroidism,C0020502,endocrine system disease
+portal vein thrombosis,C0155773,cardiovascular system disease
+Arachnoiditis,C0003708,nervous system disease
+nystagmus,C0028738,nervous system disease
+apraxia,C0003635,developmental disorder of mental health
+amyloidosis,C0002726,acquired metabolic disease
+prostatitis,C0033581,reproductive system disease
+cardiac disease,C0018799,cardiovascular system disease
+panic disorder,C0030319,cognitive disorder
+atrial septal defect,C0018817,cardiovascular system disease
+Tendinitis,C0039503,musculoskeletal system disease
+obstructive uropathy,C0178879,urinary system disease
+Colpitis,C0042267,reproductive system disease
+bone spur,C1442903,musculoskeletal system disease
+pancreatitis,C0030305,endocrine system disease
+allergic rhinitis,C0002103,respiratory system disease
+otitis media,C0029882,nervous system disease
+intestinal functional disorder,C0016807,gastrointestinal system disease
+ADH inappropriate,C0021141,endocrine system disease
+neuropathy,C0442874,nervous system disease
+radiculopathy,C0700594,nervous system disease
+mitral valve prolapse,C0026267,cardiovascular system disease
+fatty liver,C0015695,inherited metabolic disorder
+bipolar disorder,C0005586,cognitive disorder
+duodenitis,C0013298,gastrointestinal system disease
+malignant melanoma,C0025202,cancer
+muscle inflammation,C0027121,musculoskeletal system disease
+hydronephrosis,C0020295,urinary system disease
+dental caries,C0011334,gastrointestinal system disease
+gastroduodenal ulcer,C0030920,gastrointestinal system disease
+acute bronchitis,C0149514,respiratory system disease
+gynaecomastia,C0018418,endocrine system disease
+renal tubular acidosis,C0001126,urinary system disease
+goiter,C0018021,endocrine system disease
+movement disorder,C0026650,nervous system disease
+macula lutea degeneration,C0024437,nervous system disease
+Cardiac ischemia,C0151744,cardiovascular system disease
+retinal degeneration,C0035304,nervous system disease
+impetigo,C0021099,integumentary system disease
+angioedema,C0002994,integumentary system disease
+sick sinus syndrome,C0037052,cardiovascular system disease
+hyperthyroidism,C0020550,endocrine system disease
+cardiac failure,C0018801,cardiovascular system disease
+pharyngeal inflammation,C0031350,respiratory system disease
+adenoma,C0001430,benign neoplasm
+epilepsy,C0014544,nervous system disease
+muscle disorder,C0026848,musculoskeletal system disease
+MPD,C0027022,cancer
+aspergillosis,C0004030,fungal infectious disease
+SCLC,C0149925,cancer
+colitis,C0009319,gastrointestinal system disease
+Glucose intolerance,C0271650,acquired metabolic disease
+Multiple Myeloma,C0026764,cancer
+carcinoma of the colon,C0699790,cancer
+myocarditis,C0027059,cardiovascular system disease
+cardiac valvulopathy,C0018824,cardiovascular system disease
+endocarditis,C0014118,cardiovascular system disease
+ischaemia,C0022116,cardiovascular system disease
+cirrhosis,C0023890,gastrointestinal system disease
+hordeolum,C0019917,nervous system disease
+periodontal disease,C0031090,gastrointestinal system disease
+obesity,C0028754,acquired metabolic disease
+basal cell carcinoma,C0007117,cancer
+insulin dependent diabetes mellitus,C0011854,acquired metabolic disease
+Cardiac tamponade,C0007177,cardiovascular system disease
+endocrine disorder,C0014130,endocrine system disease
+diverticulitis,C0012813,gastrointestinal system disease
+gastric dilatation,C0038353,gastrointestinal system disease
+Thrombophlebitis,C0040046,cardiovascular system disease
+Polio,C0032371,viral infectious disease
+ventricular septal defect,C0018818,cardiovascular system disease
+gouty arthritis,C0003868,musculoskeletal system disease
+lymphoma,C0024299,cancer
+Scleroderma,C0036421,immune system disease
+Cor pulmonale,C0034072,cardiovascular system disease
+cancer,C0006826,cancer
+colitis pseudomembranous,C1257843,gastrointestinal system disease
+premature menopause,C0025322,reproductive system disease
+psoriasis,C0033860,integumentary system disease
+contact dermatitis,C0011616,integumentary system disease
+blepharoptosis,C0005745,nervous system disease
+epicondylitis,C0014488,musculoskeletal system disease
+dermatitis seborrheic,C0036508,integumentary system disease
+petit mal,C0014553,nervous system disease
+gout,C0018099,musculoskeletal system disease
+eyelid diseases,C0015423,nervous system disease
+gastric ulcer,C0038358,gastrointestinal system disease
+periodontitis,C0031099,gastrointestinal system disease
+Lyell,C0014518,integumentary system disease
+seborrhoeic keratosis,C0022603,integumentary system disease
+actinic keratosis,C0022602,pre-malignant neoplasm
+dyshidrosis,C0032633,integumentary system disease
+aortic stenosis,C0003507,cardiovascular system disease
+Glossitis,C0017675,gastrointestinal system disease
+bacterial pneumonia,C0004626,respiratory system disease
+squamous cell carcinoma of skin,C0553723,cancer
+pancreatic cancer,C0235974,cancer
+Tenosynovitis,C0039520,musculoskeletal system disease
+atrioventricular block,C0004245,cardiovascular system disease
+breast enlargement,C0020565,thoracic disease
+acute sinusitis,C0149512,respiratory system disease
+Pelvic Inflammatory Disease,C0242172,reproductive system disease
+schizoaffective disorder,C0036337,cognitive disorder
+borderline personality disorder,C0006012,personality disorder
+Nephrogenic diabetes insipidus,C0162283,urinary system disease
+Diabetic neuropathy,C0011882,nervous system disease
+brain neoplasm,C0006118,cancer
+reflux esophagitis,C0014869,gastrointestinal system disease
+hair disease,C0018500,integumentary system disease
+Interstitial nephritis,C0027707,urinary system disease
+Nail disorder,C0027339,integumentary system disease
+allergic vasculitis,C0151436,immune system disease
+lichen planus,C0023646,integumentary system disease
+keratoacanthomas,C0022572,cancer
+toxic shock,C0600327,bacterial infectious disease
+dermoid cyst,C0011649,cancer
+essential hypertension,C0085580,cardiovascular system disease
+hepatitis B,C0019163,viral infectious disease
+tetralogy of Fallot,C0039685,cardiovascular system disease
+colon neoplasm,C0009375,benign neoplasm
+Carcinoma of Prostate,C0600139,cancer
+Breast disorder,C0006145,thoracic disease
+disseminated lupus erythematosus,C0024141,musculoskeletal system disease
+mixed connective tissue disease,C0026272,musculoskeletal system disease
+Hyperprolactinaemia,C0020514,acquired metabolic disease
+sarcoidosis,C0036202,immune system disease
+Detached retina,C0035305,nervous system disease
+eosinophilic pneumonia,C1527407,respiratory system disease
+acanthosis nigricans,C0000889,integumentary system disease
+costochondritis,C0040213,musculoskeletal system disease
+agoraphobia,C0001818,cognitive disorder
+OPTIC NEURITIS,C0029134,nervous system disease
+bone sarcoma,C0029463,cancer
+neuroblastoma,C0027819,cancer
+mediastinal tumor,C0025063,cancer
+erysipelas,C0014733,integumentary system disease
+color blindness,C0242225,nervous system disease
+hepatorenal syndrome,C0019212,urinary system disease
+Hepatitis C,C0019196,viral infectious disease
+agranulocytoses,C0001824,hematopoietic system disease
+glioma,C0017638,cancer
+pyoderma gangrenosum,C0085652,integumentary system disease
+benign intracranial hypertension,C0033845,cardiovascular system disease
+cerebral artery embolism,C0007780,cardiovascular system disease
+Acne,C0702166,integumentary system disease
+malignant hypertension,C0020540,cardiovascular system disease
+labyrinthitis,C0022893,nervous system disease
+atrophy of skin,C0151514,integumentary system disease
+tracheitis,C0040584,respiratory system disease
+adenomyosis,C0341858,reproductive system disease
+hyperuricaemia,C0740394,acquired metabolic disease
+parotitis,C0030583,gastrointestinal system disease
+Disorder Retinal,C0035309,nervous system disease
+pericarditis,C0031046,cardiovascular system disease
+vitiligo,C0042900,immune system disease
+paronychia,C0030578,integumentary system disease
+thyroid disease,C0040128,endocrine system disease
+aortic aneurysm,C0003486,cardiovascular system disease
+dermatomyositis,C0011633,musculoskeletal system disease
+als,C0002736,nervous system disease
+cerebral palsy,C0007789,nervous system disease
+bronchiectasis,C0006267,respiratory system disease
+encephalopathy hypertensive,C0151620,nervous system disease
+aplasia pure red cell,C0034902,hematopoietic system disease
+anaemia hypochromic,C0002884,hematopoietic system disease
+periostitis,C0031111,musculoskeletal system disease
+autonomic neuropathy,C0259749,nervous system disease
+corneal disorder,C0010034,nervous system disease
+polymyalgia rheumatica,C0032533,musculoskeletal system disease
+diaphragmatic hernia,C0019284,musculoskeletal system disease
+lymphedema,C0024236,immune system disease
+temporal arteritis,C0039483,cardiovascular system disease
+phimosis,C0031538,reproductive system disease
+Lacrimal Disorder,C0022904,nervous system disease
+inflammatory bowel disease,C0021390,gastrointestinal system disease
+acquired immune deficiency syndrome,C0001175,viral infectious disease
+Anemia aplastic,C0002874,hematopoietic system diseases
+ectopic pregnancies,C0032987,reproductive system disease
+Papilloma,C0030354,benign neoplasm
+retinopathy hypertensive,C0152132,nervous system disease
+lung adenocarcinoma,C0152013,cancer
+Gastric Cancer,C0699791,cancer
+varicose vein,C0042345,cardiovascular system disease
+aphthous stomatitis,C0038363,gastrointestinal system disease
+familial adenomatous polyposis,C0032580,monogenic disease
+Cutaneous mycosis,C0011630,fungal infectious disease
+coccidioidomycosis,C0009186,fungal infectious disease
+volvulus,C0042961,gastrointestinal system disease
+Neuromuscular Disorder,C0027868,nervous system disease
+vaginal discharge,C0227791,reproductive system disease
+primary biliary cirrhosis,C0008312,immune system disease
+haemangioma,C0018916,benign neoplasm
+Splenic infarction,C0037998,immune system disease
+Hernia Inguinal,C0019294,gastrointestinal system disease
+meningioma,C0025286,cancer
+hepatic encephalopathy,C0019151,nervous system disease
+paraplegia,C0030486,nervous system disease
+Corneal dystrophy,C0010036,nervous system disease
+Aseptic meningitis,C0025290,nervous system disease
+causalgia,C0007462,nervous system disease
+conversion disorder,C0009946,somatoform disorder
+epidural abscess,C0270629,nervous system disease
+bladder cancer,C0699885,cancer
+quadriplegia,C0034372,nervous system disease
+neoplasm prostate,C0033578,cancer
+alveolar proteinosis,C0034050,respiratory system disease
+Bone marrow fibrosis,C0026987,cancer
+histoplasmosis,C0019655,fungal infectious disease
+telangiectases,C0039446,cardiovascular system disease
+Rheumatic fever,C0035436,musculoskeletal system disease
+neurodermatitis,C0027822,integumentary system disease
+fibroadenoma of breast,C0178421,benign neoplasm
+food allergy,C0016470,immune system disease
+urethritis,C0041976,urinary system disease
+bacterial vaginitis,C0085166,reproductive system disease
+Sjogrens syndrome,C1527336,immune system disease
+vitreous detachment,C0042907,nervous system disease
+venous insufficiency,C0042485,cardiovascular system disease
+carcinoma of the cervix,C0302592,cancer
+keratitis,C0022568,nervous system disease
+diabetes insipidus,C0011848,urinary system disease
+folliculitis,C0016436,integumentary system disease
+jaundice neonatal,C0022353,integumentary system disease
+cleft lip,C0008924,orofacial cleft
+platelet disorder,C0005818,hematopoietic system disease
+allergic alveolitis,C0002390,respiratory system disease
+chronic ulcerative colitis,C0009324,gastrointestinal system disease
+Meningitis Viral,C0025297,nervous system disease
+esophageal cancer,C0152018,cancer
+iritis,C0022081,nervous system disease
+chalazion,C0007933,nervous system disease
+Fatty stools,C0038238,gastrointestinal system disease
+priapism,C0033117,cardiovascular system disease
+Retinal artery occlusion,C0035302,cardiovascular system disease
+neuroma,C0027858,benign neoplasm
+chronic hepatitis,C0019189,gastrointestinal system disease
+mycosis fungoides,C0026948,cancer
+connective tissue disease,C0009782,musculoskeletal system disease
+thyroiditis,C0040147,endocrine system disease
+calculus ureteric,C0041952,urinary system disease
+HIV disease,C0019693,viral infectious disease
+hypopituitarism,C0020635,endocrine system disease
+dysphemia,C0038131,developmental disorder of mental health
+infectious mononucleosis,C0021345,viral infectious disease
+methaemoglobinaemia,C0025637,hematopoietic system disease
+Cerebral thrombosis,C0079102,cardiovascular system disease
+Lyme Disease,C0024198,bacterial infectious disease
+lung abscess,C0024110,respiratory system disease
+kidney neoplasm,C0022665,cancer
+diarrhea infectious,C0013369,gastrointestinal system disease
+motion sickness,C0026603,nervous system disease
+pneumoconiosis,C0032273,respiratory system disease
+corneal ulcer,C0010043,nervous system disease
+hyperphosphatemia,C0085681,acquired metabolic disease
+panniculitis,C0030326,integumentary system disease
+status epilepticus,C0038220,nervous system disease
+pyuria,C0034359,urinary system disease
+agnosia,C0001816,developmental disorder of mental health
+fibrosing alveolitis,C0085786,respiratory system disease
+Porphyria,C0032708,inherited metabolic disorder
+intussusception,C0021933,gastrointestinal system disease
+gestational diabetes,C0085207,acquired metabolic disease
+optic atrophy,C0029124,nervous system disease
+breast inflammation,C0024894,thoracic disease
+rectal prolapse,C0034888,gastrointestinal system disease
+hypersplenism,C0020532,immune system disease
+alcohol abuse,C0085762,substance-related disorder
+multifocal leukoencephalopathy,C0023524,viral infectious disease
+Mumps,C0026780,viral infectious disease
+Peyronies Disease,C0030848,reproductive system disease
+papillary necrosis,C0022667,urinary system disease
+dacrocystitis,C0010930,nervous system disease
+megacolon,C0025160,gastrointestinal system disease
+Cholangitis sclerosing,C0008313,gastrointestinal system disease
+haemarthrosis,C0018924,musculoskeletal system disease
+osteochondrosis,C0029429,musculoskeletal system disease
+epiglottitis,C0014541,respiratory system disease
+fasciitis,C0015645,musculoskeletal system disease
+Neurosis,C0027932,cognitive disorder
+myoma,C0027086,benign neoplasm
+tinea pedis,C0040259,fungal infectious disease
+hypertrichosis,C0020555,integumentary system disease
+hypogonadism,C0020619,endocrine system disease
+Collagen disease,C0009326,musculoskeletal system disease
+mental retardation,C0025362,developmental disorder of mental health
+Hepatitis A,C0019159,viral infectious disease
+lymphangitis,C0024225,immune system disease
+epididymitis,C0014534,reproductive system disease
+chicken pox,C0008049,viral infectious disease
+bronchiolitis,C0006271,respiratory system disease
+periarteritis nodosa,C0031036,cardiovascular system disease
+pigmentary retinopathy,C0035334,nervous system disease
+Post thrombotic syndrome,C0032807,cardiovascular system disease
+night blindness,C0028077,nervous system disease
+biliary cirrhosis,C0023892,immune system disease
+Astrocytoma,C0004114,cancer
+trisomy 21,C0013080,chromosomal disease
+heat rash,C0162423,integumentary system disease
+reflex sympathetic dystrophy,C0034931,nervous system disease
+adrenal carcinoma,C1370740,cancer
+Legionella,C0023241,bacterial infectious disease
+pyloric stenosis,C0034194,gastrointestinal system disease
+exophthalmos,C0015300,nervous system disease
+pemphigus,C0030807,integumentary system disease
+Endometrial cancer,C0476089,cancer
+polycystic ovary disease,C0032460,polycystic ovary syndrome
+Cystitis Interstitial,C0282488,urinary system disease
+trichomoniasis,C0040921,parasitic infectious disease
+Lice Infestation,C0030756,parasitic infectious disease
+Bladder Neoplasm,C0005695,cancer
+tinea versicolor,C0040262,fungal infectious disease
+cleft palate,C0008925,orofacial cleft
+viral pneumonia,C0032310,respiratory system disease
+asthenopia,C0004095,nervous system disease
+lagophthalmos,C0152226,nervous system disease
+prolactinoma,C0033375,benign neoplasm
+Endometritis,C0014179,reproductive system disease
+myelitis,C0026975,nervous system disease
+myoclonic epilepsy,C0014550,nervous system disease
+lactose intolerance,C0022951,inherited metabolic disorder
+retinitis,C0035333,nervous system disease
+giardiasis,C0017536,parasitic infectious disease
+ankylosing spondylitis,C0038013,musculoskeletal system disease
+refraction disorder,C0034951,nervous system disease
+angle closure glaucoma,C0017605,nervous system disease
+breast neoplasm,C1458155,cancer
+gastric stasis,C0152020,gastrointestinal system disease
+osteopetrosis,C0029454,musculoskeletal system disease
+thyroid cancer,C0549473,cancer
+bulimia,C0006370,developmental disorder of mental health
+hypermetropia,C0020490,nervous system disease
+cryptorchidism,C0010417,cryptorchidism
+orchitis,C0029191,reproductive system disease
+renal cancer,C1378703,cancer
+ocular hypertension,C0028840,nervous system disease
+Lymphatic Disorders,C0024228,immune system disease
+Tympanic membrane disorder,C0041825,nervous system disease
+Essential Thrombocythemia,C0040028,cancer
+varicocele,C0042341,cardiovascular system disease
+dandruff,C0221244,integumentary system disease
+ectropion,C0013592,nervous system disease
+alcoholic cirrhosis,C0023891,gastrointestinal system disease
+balanitis,C0004690,reproductive system disease
+bone neoplasm,C0005967,cancer
+carcinoma,C0007097,cancer
+parapsoriasis,C0030491,integumentary system disease
+anogenital warts,C0009663,viral infectious disease
+dermatophytosis,C0011636,fungal infectious disease
+thyroid adenoma,C0151468,benign neoplasm
+eclampsia,C0013537,cardiovascular system disease
+toxoplasmosis,C0040558,parasitic infectious disease
+amblyopia,C0002418,nervous system disease
+bacterial conjunctivitis,C0009768,nervous system disease
+constrictive pericarditis,C0031048,cardiovascular system disease
+molluscum contagiosum,C0026393,viral infectious disease
+cavernous sinus thrombosis,C0238454,cardiovascular system disease
+brachial neuritis,C0221759,nervous system disease
+Cystic Fibrosis,C0010674,monogenic disease
+chondrodystrophy,C0008449,musculoskeletal system disease
+hemoglobinuria,C0019048,urinary system disease
+hypoparathyroidism,C0020626,endocrine system disease
+entropion,C0014390,nervous system disease
+Osteogenesis Imperfecta,C0029434,musculoskeletal system disease
+scleritis,C0036416,nervous system disease
+renovascular hypertension,C0020545,cardiovascular system disease
+acute intermittent porphyria,C0162565,inherited metabolic disorder
+IgA nephropathy,C0017661,urinary system disease
+testicular atrophy,C0156312,reproductive system disease
+vulvitis,C0042996,reproductive system disease
+mast cell disease,C0024899,hematopoietic system disease
+rhabdomyosarcoma,C0035412,cancer
+choriocarcinoma,C0008497,cancer
+hypospadias,C0848558,hypospadias
+eosinophilic pneumonia acute,C0242459,respiratory system disease
+infertility,C0021359,reproductive system disease
+genital herpes,C0019342,viral infectious disease
+familial hypercholesterolemia,C0020445,inherited metabolic disorder
+tetanus,C0039614,bacterial infectious disease
+hemophilia B,C0008533,hematopoietic system disease
+gonorrhea,C0018081,bacterial infectious disease
+erythremia,C0032463,hematopoietic system disease
+hypochondriasis,C0020604,somatoform disorder
+Typhoid,C0041466,bacterial infectious disease
+chorioretinitis,C0008513,nervous system disease
+neurofibromatosis,C0162678,monogenic disease
+rickets,C0035579,musculoskeletal system disease
+Vasomotor Rhinitis,C0035460,respiratory system disease
+corneal degeneration,C0155118,nervous system disease
+Acromegaly,C0001206,endocrine system disease
+anthrax,C0003175,bacterial infectious disease
+bladder diverticulum,C0156273,urinary system disease
+Rubella,C0035920,viral infectious disease
+hypogonadotropic hypogonadism,C0022735,chromosomal disease
+rabies,C0034494,viral infectious disease
